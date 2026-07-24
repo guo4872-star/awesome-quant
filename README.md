@@ -1,3 +1,4 @@
+> Personal learning note: Exploring this list as a Lingnan University business student. Starting with Data Sources, Visualization, and Backtesting. — guo4872-star, July 2026
 # Awesome Quant
 
 A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance).
